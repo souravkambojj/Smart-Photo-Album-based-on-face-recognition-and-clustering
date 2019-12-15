@@ -1,1 +1,1 @@
-# Smart-photo-album-based-on-face-recognition-and-clustering
+# Smart-Photo-Album-based-on-face-recognition-and-clustering
